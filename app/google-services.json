@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1011314786911",
+    "firebase_url": "https://dbhosting-381db.firebaseio.com",
+    "project_id": "dbhosting-381db",
+    "storage_bucket": "dbhosting-381db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011314786911:android:4815c41cb1049b04",
+        "android_client_info": {
+          "package_name": "com.example.jay.firebasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011314786911-s69gd55j83999f7bbtt19rld2ndjv1ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjUnAK1u0Ii8-oTFh2J1THsXYoYlWE5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
